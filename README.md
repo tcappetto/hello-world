@@ -1,2 +1,3 @@
 # hello-world
-My first repository in Github
+
+Hi Humans, T here.  This is my first time editing a file in Github.
